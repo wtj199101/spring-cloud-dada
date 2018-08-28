@@ -26,3 +26,8 @@ mvnw.cmd
 /dist/
 /nbdist/
 /.nb-gradle/
+
+gradlew
+gradlew.bat
+.gradle
+gradle
