@@ -25,7 +25,7 @@
         <module>dada-config-center</module>
         <module>dada-facade</module>
         <module>dada-service</module>
-        <module>dada-web</module>
+        <module>dada-client</module>
     </modules>
     <dependencies>
         <dependency>
